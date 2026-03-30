@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi , I'm Atharv 👋
+🎓 Integrated MTECH CSE(Cybersecurity) at 🏫 VIT Bhopal University 📍 India
 
-<!--
-**atharvthote/atharvthote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 About Me
+🔐 Passionate about hacking and netwoks security 💻 Interested in learning new technologies 📚 Exploring digital tools and programming
 
-Here are some ideas to get you started:
+🎯 My Goal
+To build strong skills in Cybersecurity, OS and become a professional in the tech industry.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills (Learning)
+💻 Programming Basics
+
+🌐 Digital Literacy & Online Safety
+
+📫 Connect With Me
+🔗 LinkedIn:https://www.linkedin.com/in/atharv-thote-6068363ba/
