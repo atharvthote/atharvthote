@@ -1,4 +1,4 @@
-## Hi , I'm Atharv 👋
+## Hi , I'm Atharv Patil👋
 🎓 Integrated MTECH CSE(Cybersecurity) at 🏫 VIT Bhopal University 📍 India
 
 💡 About Me
